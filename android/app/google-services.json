@@ -1,0 +1,170 @@
+{
+  "project_info": {
+    "project_number": "524072964896",
+    "project_id": "habitin-ac425",
+    "storage_bucket": "habitin-ac425.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524072964896:android:ff4af6cc92f4210ecd7d45",
+        "android_client_info": {
+          "package_name": "com.meteh4.habitin.habitinn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524072964896-s1471fpr1nmj1t7cfbflhl99mvkm4k08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtxTY65Xu1M2B3-pNBQ22uet7_Au10Quo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524072964896-s1471fpr1nmj1t7cfbflhl99mvkm4k08.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "524072964896-fae09unndo92dlksqtnsqq1nkck31l88.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.metoly.habitin.habittin.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524072964896:android:cda35e88528173f1cd7d45",
+        "android_client_info": {
+          "package_name": "com.metoly.habitin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524072964896-s1471fpr1nmj1t7cfbflhl99mvkm4k08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtxTY65Xu1M2B3-pNBQ22uet7_Au10Quo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524072964896-s1471fpr1nmj1t7cfbflhl99mvkm4k08.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "524072964896-fae09unndo92dlksqtnsqq1nkck31l88.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.metoly.habitin.habittin.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524072964896:android:f8406788a84b3b36cd7d45",
+        "android_client_info": {
+          "package_name": "com.metoly.habitin.habitin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524072964896-0sl0ogf70vnrf3c62nkjuc241gniad4p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.metoly.habitin.habitin",
+            "certificate_hash": "80518450a638a2b44506fa940df9d682b7cdcd91"
+          }
+        },
+        {
+          "client_id": "524072964896-s1471fpr1nmj1t7cfbflhl99mvkm4k08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtxTY65Xu1M2B3-pNBQ22uet7_Au10Quo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524072964896-s1471fpr1nmj1t7cfbflhl99mvkm4k08.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "524072964896-fae09unndo92dlksqtnsqq1nkck31l88.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.metoly.habitin.habittin.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524072964896:android:515335a8a6819517cd7d45",
+        "android_client_info": {
+          "package_name": "com.metoly.habitin.habittin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524072964896-7ffrvj1gab2akfqeul19npdoj5i9ogn8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.metoly.habitin.habittin",
+            "certificate_hash": "80518450a638a2b44506fa940df9d682b7cdcd91"
+          }
+        },
+        {
+          "client_id": "524072964896-s1471fpr1nmj1t7cfbflhl99mvkm4k08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtxTY65Xu1M2B3-pNBQ22uet7_Au10Quo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524072964896-s1471fpr1nmj1t7cfbflhl99mvkm4k08.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "524072964896-fae09unndo92dlksqtnsqq1nkck31l88.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.metoly.habitin.habittin.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
